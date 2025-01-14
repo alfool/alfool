@@ -1,6 +1,4 @@
 <h1 align="center">👨‍💻Welcome to albertrebol's GitHub👨‍💻</h1>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mohammadnabia&label=Profile%20views&color=0e75b6&style=flat" /> </p>
  
 - 👨‍🎓 Currently a master's student
 
