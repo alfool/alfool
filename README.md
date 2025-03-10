@@ -3,7 +3,7 @@
 - 👨‍🎓 Currently a master's student
 
 <h1 align="center">Achievement 🏆</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=albertrebol" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alfool" /></a> </p>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
